@@ -1,0 +1,97 @@
+.footer{
+    
+    text-align: center;
+    padding:30px;
+    margin-top:10px;
+    font-size: 25px;
+    word-spacing: 10px;
+    border:3px solid black;
+    clear:both;
+    position: relative;
+    overflow: inherit;
+    background-color: dimgray;
+}
+#left{
+    float:left;
+    border:2px solid black;
+    height:500px;
+    width:20%;
+    line-height: 3.6;
+    background-color:aliceblue;
+    text-decoration: none;
+    clear:both;
+    text-decoration-color: aliceblue;
+    overflow:hidden;
+    background: url(images/bg-body.jpg);
+    
+    
+}
+#right{
+    border:3px solid black;
+    height:1000px;
+    width:70%;
+    clear:both;
+    clear:right;
+    margin-left:400px;
+    position:static;
+    overflow: scroll;
+    padding:20px;
+    font-size: 20px;
+    line-height: 2.5;
+    word-spacing: 10px;
+    font-family:monospace;
+    background-image: url(images/untitled.png);
+    color:white;
+    font-style:oblique;
+    
+  
+
+}
+h1{
+        background-image: url(images/bg-navigation.png);
+	clear: both;
+	height: 50px;
+	width: 860px;
+	margin: 0 auto;
+    color: black;
+	   
+}
+.footer{
+    
+    text-align: center;
+    padding:30px;
+    margin-top:10px;
+    font-size: 25px;
+    word-spacing: 10px;
+    border:3px solid black;
+    clear:both;
+    position: relative;
+    overflow: inherit;
+}
+body{
+    background-image: url(images/bg-pattern.jpg);
+    background-repeat: repeat-x;
+    
+}
+h2,h5{
+    
+    font-size: 40px;
+    color: black;
+}
+a {
+    font-size: 23px;
+    text-decoration: none;
+}
+a:hover{
+    opacity: 0.3;
+}
+a:visited{
+    background-color: blue;
+}
+a:active{
+    background-color: chartreuse;
+}
+#bot{
+    float:right;
+    margin-bottom:10px;
+}

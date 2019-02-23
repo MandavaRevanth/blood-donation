@@ -1,0 +1,113 @@
+#dona{
+    color: white;
+    font-family:monospace;
+    padding: 50;
+    position: fixed;
+    float: right;
+    width:70%;
+    height:400px;
+    border:3px dashed black;
+    background: url(images/search.jpg);
+         position:static;
+}
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+}
+body{
+   
+    background-image: 
+    background-repeat: no-repeat;
+    clear:both;
+    color: white;
+
+
+}
+h1{
+    font-family: sans-serif;
+    text-align: right;
+}
+
+
+
+#dona {
+    position:static;
+}
+  
+.ab{
+    border: 10px solid black;
+    
+    text-align: center;
+    text-align: left;
+    
+}
+
+#one {
+    text-align: left;
+    text-shadow: 1px;
+    border:3px solid black;
+    border-radius: 10px;
+    float:left;
+    height:70%;
+}
+
+a:hover{
+    color: aqua;
+    
+}
+
+
+#one {
+    border:2px solid black;
+}
+#left{
+    float:left;
+    border:2px solid black;
+    height:500px;
+    width:20%;
+    line-height: 2.6;
+    background-color:rgb(252, 252, 171);
+}
+.footer{
+    
+    text-align: center;
+    padding:30px;
+    margin-top:10px;
+    font-size: 25px;
+    word-spacing: 10px;
+    border:3px solid black;
+    clear:both;
+    position: relative;
+    overflow: inherit;
+    color: black;
+}
+h1{
+    
+    text-align: center;
+    color:black;
+}
+hr{
+    width:80%;
+    height;2px; 
+}
+#logo{
+   
+    background-image: url(images/see.png);
+     background-position: center;
+    background-repeat: no-repeat;
+}
+a:hover{
+    opacity: 0.4;
+}
+body {
+	background: #f7f4f4 url(images/68940943-pleasant-wallpapers.jpg) no-repeat center top;
+	font-family: "Times New Roman", Times, serif;
+	margin: 0;
+}
+#background {
+    background-image: url(images/68940943-pleasant-wallpapers.jpg) repeat-x center ;
+	min-height: 1318px;
+}
+li{
+    text-decoration: none;
+}
